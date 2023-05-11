@@ -40,3 +40,9 @@ Least Once<br />
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
 </div>
+<br />
+<br />
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junsub123&layout=compact">
+</div>
