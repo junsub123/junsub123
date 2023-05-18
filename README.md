@@ -20,8 +20,8 @@ zzzzk9113@gamil.com
 
 <div align="center">
 <h3>🌐MY SNS🌐</h3>
-<a href="https://www.facebook.com/profile.php?id=100028591356922" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/subsub_593/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100028591356922" target=""><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/subsub_593/" target=""><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 <br />
 <br />
