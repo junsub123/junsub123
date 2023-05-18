@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=f2f2f2&height=200&section=header&text=Welcome&fontColor=f3f3f3&fontSize=50&fontAlignY=40)
 <br />
 <br />
+
+<div align="center">
+🙇‍♂️안녕하셔유🙇‍♂️
+🔥항상 최선을 다하고 열정을 불태우는 사람입니다🔥
+</div>
+
 <div align="center">
   
 <h3>📧Email📧</h3>
