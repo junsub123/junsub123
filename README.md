@@ -1,14 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=f2f2f2&height=200&section=header&text=Welcome&fontColor=f3f3f3&fontSize=50&fontAlignY=40)
 <br />
 <br />
-<br />
-
-<div align="center">
-안녕하세요🙌<br />
-프론트엔드의 꿈을 키우며 공부하는 사람입니다<br />
-🔥한양공업고등학교를 재학 중이고 항상 열정을 불태우고 있습니다🔥
-</div>
-
 <div align="center">
   
 <h3>📧Email📧</h3>
