@@ -36,6 +36,6 @@ Main Languages<br />
 Least Once<br />
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-4B4B77?style=for-the-badge&logo=&logoColor=white">
 </div>
 <br />
