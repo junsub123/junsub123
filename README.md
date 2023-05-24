@@ -2,17 +2,17 @@
 <br />
 
 <div align="center">
-<h3>
+<h4>
 🙇‍♂️안녕하세요🙇‍♂️<br />
 프론트엔드가 꿈인 임준섭입니다<br />
 저는 React에 관심이 많고 공부중에 있습니다
-</h3>
+</h4>
 </div>
 
 <div align="center">
   
 <h3>📧Email📧</h3>
-<h3>zzzzk9113@gamil.com</h3>
+<h4>zzzzk9113@gamil.com</h4>
 
 </div>
 
