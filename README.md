@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=f2f2f2&height=200&section=header&text=Welcome&fontColor=f3f3f3&fontSize=50&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=f2f2f2&height=200&section=header&text=Welcome%20My%20Github!&fontColor=f3f3f3&fontSize=50&fontAlignY=40)
 <br />
+
 
 <div align="center">
 <h4>
@@ -7,7 +8,7 @@
 프론트엔드가 꿈인 임준섭입니다<br />
 React에 관심이 많고 열심히 공부중입니다!
 </h4>
-</div>
+
 
 <div align="center">
   
@@ -43,6 +44,6 @@ Least Once<br />
 <br />
 <br />
 
-<div align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%236B00FF&title_bg=%23454545&icon=&icon_color=%23CDCDCD&title=hits&edge_flat=false"/></a>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsub123&&show_icons=true&theme=cobalt)
+
 </div>
