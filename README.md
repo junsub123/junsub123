@@ -4,7 +4,8 @@
 
 <div align="center">
 🙇‍♂️안녕하세요🙇‍♂️<br />
-🔥저는 React에 관심이 많고 공부중에 있습니다🔥
+프론트엔드가 꿈인 임준섭입니다<br />
+저는 React에 관심이 많고 공부중에 있습니다🔥
 </div>
 
 <div align="center">
