@@ -12,7 +12,7 @@
 <div align="center">
   
 <h3>📧Email📧</h3>
-<h4>zzzzk9113@gamil.com</h4>
+<h4>zzzzk9113@gmail.com</h4>
 
 </div>
 
