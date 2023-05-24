@@ -1,17 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=f2f2f2&height=200&section=header&text=Welcome&fontColor=f3f3f3&fontSize=50&fontAlignY=40)
 <br />
-<br />
 
 <div align="center">
+<h3>
 🙇‍♂️안녕하세요🙇‍♂️<br />
 프론트엔드가 꿈인 임준섭입니다<br />
 저는 React에 관심이 많고 공부중에 있습니다
+</h3>
 </div>
 
 <div align="center">
   
 <h3>📧Email📧</h3>
-zzzzk9113@gamil.com
+<h3>zzzzk9113@gamil.com</h3>
 
 </div>
 
