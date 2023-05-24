@@ -41,3 +41,8 @@ Least Once<br />
   <img src="https://img.shields.io/badge/Java-4B4B77?style=for-the-badge&logo=&logoColor=white">
 </div>
 <br />
+<br />
+
+<div align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%236B00FF&title_bg=%23454545&icon=&icon_color=%23CDCDCD&title=hits&edge_flat=false"/></a>
+</div>
