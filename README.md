@@ -12,7 +12,7 @@ I'm interested in React and I'm studying hard!
 <br />
 
 <div align="center">
-<h3>🌐Contact Me🌐</h3>
+<h3>📱Contact Me📱</h3>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/zzzzk9113@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a><br/>
 <a href="https://www.facebook.com/profile.php?id=100028591356922" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/subsub_593/" target="blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
