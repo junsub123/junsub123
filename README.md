@@ -9,7 +9,6 @@ I am Junsub Lim who wants to become a front-end developer.<br />
 I'm interested in React and I'm studying hard!
 </h4>
 
-<br />
 
 <div align="center">
 <h3>📱Contact Me📱</h3>
@@ -17,7 +16,6 @@ I'm interested in React and I'm studying hard!
 <a href="https://www.facebook.com/profile.php?id=100028591356922" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/subsub_593/" target="blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
-<br />
 <br />
 
 <div align="center">
@@ -35,8 +33,9 @@ Least Once<br />
   <img src="https://img.shields.io/badge/Java-4B4B77?style=for-the-badge&logo=&logoColor=white">
 </div>
 <br />
-<br />
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsub123&&show_icons=true&theme=cobalt)
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=Waving&color=ffff48&height=200&section=footer&text=&fontColor=f3f3f3&fontSize=50&fontAlignY=40)
