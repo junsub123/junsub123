@@ -8,7 +8,6 @@ Hello🙌<br />
 I am Junsub Lim who wants to become a front-end developer.<br />
 I'm interested in React and I'm studying hard!
 </h4>
-</div>
 
 <div align="center">
 <h3>📱Contact Me📱</h3>
